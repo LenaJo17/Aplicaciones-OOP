@@ -4,20 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a4962c5-74b9-417e-bbde-1ec138ab82a4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/introNiceGui.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Main3d.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StilyingCss.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Value Binding.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/introNiceGui,py.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/Dragon 2.5_stl.stl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/pikachu.stl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uiCommonElements.py" afterDir="false" />
+    <list default="true" id="4a4962c5-74b9-417e-bbde-1ec138ab82a4" name="Changes" comment="Aplicaciones OOP">
+      <change beforePath="$PROJECT_DIR$/Main3d.py" beforeDir="false" afterPath="$PROJECT_DIR$/Main3d.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +22,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/LenaJo17/Aplicaciones-OOP.git",
+    "accountId": "5681aef4-1834-4791-b619-8e01f1aa3d61"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -84,12 +78,25 @@
       <workItem from="1733254207825" duration="1920000" />
       <workItem from="1733256175136" duration="638000" />
       <workItem from="1733256902942" duration="572000" />
-      <workItem from="1733257492731" duration="8319000" />
+      <workItem from="1733257492731" duration="8654000" />
     </task>
+    <task id="LOCAL-00001" summary="Aplicaciones OOP">
+      <option name="closed" value="true" />
+      <created>1733295532724</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1733295532724</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Aplicaciones OOP" />
+    <option name="LAST_COMMIT_MESSAGE" value="Aplicaciones OOP" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/introNiceGui$introNiceGui_py.coverage" NAME="introNiceGui,py Coverage Results" MODIFIED="1733257588421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />

@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 from nicegui import app, ui
-from nicegui.elements.mixins.color_elements import color
 
 app.add_static_files('/stl', 'static')
 
